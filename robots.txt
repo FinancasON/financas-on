@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://financason.github.io/financas-on/sitemap.xml
